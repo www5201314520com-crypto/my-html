@@ -57,16 +57,16 @@ ul.a{
 }
 #b1{
 	margin:5px 0 0 10px;
-	width:85px;
+	width:100px;
 	height:85px;
 	float:left;
 }
 #b11{
 	background:black;
-	margin:5px 0 5px 7px;
+	margin:4px 0 4px 4px;
 	float:left;
 	font-size:12px;
-	width:90px;
+	width:80px;
 	height:86px;
 }
 #b11 a{
